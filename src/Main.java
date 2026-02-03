@@ -6,6 +6,8 @@ public class Main {
         // TODO: Alumno A debe inicializar aquí el gestor de vehículos
         
         // TODO: Alumno C debe inicializar aquí el inventario
+            Inventario inv = new Inventario();
+            inv.comprobarStock();
 
         // TODO: Alumno B debe registrar una reparación de prueba
         
