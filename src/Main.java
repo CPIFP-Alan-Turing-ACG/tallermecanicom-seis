@@ -8,6 +8,10 @@ public class Main {
         // TODO: Alumno C debe inicializar aquí el inventario
 
         // TODO: Alumno B debe registrar una reparación de prueba
+        GestorReparaciones reparaciones = new GestorReparaciones();
+        reparaciones.procesarReparacion();
+
+
         
         System.out.println("Sistema detenido.");
     }
